@@ -15,3 +15,4 @@ fave_food1 = "sushi"
 fave_food2 = "pizza"
 print("I love to eat {}".format(fave_food1)) # with .format()
 print(f"I love to eat {fave_food2}") # with an f string
+pwd
