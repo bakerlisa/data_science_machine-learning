@@ -12,4 +12,4 @@ Since Coding Dojo is an amazing organizition it was a no brainer to take the cou
 
 Here is where I'll put all, or most of my assigments and projects, stay tuned!
 
-![](https://github.com/lisabroadhead/lisabroadhead/blob/main/lisa.png) 
+![](https://github.com/lisabroadhead/machine-learning/blob/main/thumb_math-bad-tensorflow-good-69224218.png) 
