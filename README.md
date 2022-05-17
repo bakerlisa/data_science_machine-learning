@@ -1,15 +1,15 @@
 # Machine Learning
 
-"What the crowd says? Why they shout?" 🤯 
+🤯 "What?" The crowd Shouts? "Why?" They'll then weep. 
 
-"Well" I shout back "Why not?!" 
+"Haven't you had enough? Just settle and live your life"
 
-"But you just took a course they'll say. Stop. Don't you want to relax?"
+"Booooooooring." I'll laugh 😂 "Who wants to be just another cog in the wheel?"
 
-😂 I'll laugh and say, I can do more relqxing when I work hard AND smart! Which is why I want to take this course. I see ML and DS as a fiekld that will only continue to gorw! I want to know how to use it in my personal projects and get paid for it! 
+----
 
-Since Coding Dojo is an amazing organizition it was a no brainer to take the course with them!
+Coding Dojo is an amazing organizition. When I became interestedin machine learning it was a no brainer to take their course!
 
-Here is where I'll put all, or most of my assigments and projects, stay tuned!
+Here are all my wonderful assigments, projects, and notes! Stay tuned
 
 ![](https://github.com/lisabroadhead/machine-learning/blob/main/thumb_math-bad-tensorflow-good-69224218.png) 
