@@ -1,6 +1,6 @@
 # Machine Learning
 
-"What the crod says? Why they shout?" 🤯 
+"What the crowd says? Why they shout?" 🤯 
 
 "Well" I shout back "Why not?!" 
 
