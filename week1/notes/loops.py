@@ -9,3 +9,7 @@ for x in range(0,len(dataScienceTools)):
 
 for index,tool in enumerate(dataScienceTools):
     print(index)
+
+string = "this is a string"
+
+print(string.upper())
