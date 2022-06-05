@@ -1,10 +1,10 @@
 # Machine Learning
 
-🤯 "What?" The crowd Shouts? "Why?" They'll then weep. 
+Well I think this is the future, and I find it fascinating so I'm learning it!
 
-"Haven't you had enough? Just settle and live your life"
-
-"Booooooooring." I'll laugh 😂 "Who wants to be just another cog in the wheel?"
+## Best projects
+1. Sustance Vendwe Forecast - https://github.com/lisabroadhead/sustenance-vender-forecast
+2. 
 
 ----
 
