@@ -1,4 +1,4 @@
-# Machine Learning
+# Data Science and Machine Learning
 
 Well I think this is the future, and I find it fascinating so I'm learning it!
 
