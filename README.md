@@ -2,9 +2,10 @@
 
 Well I think this is the future, and I find it fascinating so I'm learning it!
 
-## Best projects
-1. Sustance Vendwe Forecast - https://github.com/lisabroadhead/sustenance-vender-forecast
-2. 
+## Data Science
+1. Store Vender Forecast - Using data science to predict what type and size of supermarket is most sucessful
+https://github.com/lisabroadhead/sustenance-vender-forecast
+ 
 
 ----
 
